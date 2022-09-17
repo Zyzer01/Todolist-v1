@@ -1,8 +1,6 @@
 # Todolist App
 
-# Daily Times - BLOG
-
-A simple blog that allows you create, delete and read posts
+A todolist curator
 
 ## Prerequisites
 
